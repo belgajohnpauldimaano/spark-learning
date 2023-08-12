@@ -1,0 +1,4 @@
+.env/*
+data/Spark-Programming-In-Python-master/**
+lessons/data/*
+lessons/spark-warehouse/*
